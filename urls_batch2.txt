@@ -37,15 +37,3 @@ https://www.bigscreen.com/Marquee.php?theater=102041
 https://www.bigscreen.com/Marquee.php?theater=9174
 https://www.bigscreen.com/Marquee.php?theater=100954
 https://www.bigscreen.com/Marquee.php?theater=101456
-https://www.cinema-city.co.il/
-https://www.cinema-city.co.il/timehour
-https://www.cinema-city.co.il/timehour?theathereid=1170&id=1&vid=1
-https://www.cinema-city.co.il/timehour?theathereid=1173&id=2&vid=1
-https://www.cinema-city.co.il/timehour?theathereid=1174&id=3&vid=1
-https://www.cinema-city.co.il/timehour?theathereid=1175&id=4&vid=1
-https://www.cinema-city.co.il/timehour?theathereid=1176&id=5&vid=1
-https://www.cinema-city.co.il/timehour?theathereid=1350&id=13&vid=1
-https://www.cinema-city.co.il/timehour?theathereid=1178&id=17&vid=1
-https://www.cinema-city.co.il/timehour?theathereid=1181&id=25&vid=1
-https://www.planetcinema.co.il
-https://www.planetcinema.co.il/cinemas/jerusalem/1073
